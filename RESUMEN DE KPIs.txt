@@ -1,0 +1,101 @@
+================================================================================
+RESUMEN DE KPIs - CALCULADORA DE RESERVAS MINERAS
+================================================================================
+
+KPIs TÉCNICOS
+================================================================================
+1. Tonelaje Total del Depósito:        1,284,375 toneladas
+2. Número de Bloques:                   45,000 bloques
+3. Tonelaje Promedio por Bloque:        28.54 tons/bloque
+4. Ley Promedio de Cobre:               0.8956%
+5. Ley Promedio de Molibdeno:           0.0234%
+6. Metal Contenido - Cobre:             11,512 toneladas
+7. Metal Contenido - Molibdeno:         301 toneladas
+8. Ratio Cu:Mo:                         38.3:1
+9. Recuperación Metalúrgica Promedio:   82.5%
+10. Desviación Estándar Leyes:          Cu: 0.2546%, Mo: 0.0067%
+
+KPIs ECONÓMICOS
+================================================================================
+11. Valor Total del Depósito:           $12,450,000,000 USD
+12. Valor por Tonelada de Mineral:      $9,688/ton
+13. Valor por Bloque (promedio):        $276,667/bloque
+14. Valor por Tonelada de Cu:           $1,081,053/ton Cu
+15. Contribución de Cu al Valor:        98.24% ($12,233,100,000)
+16. Contribución de Mo al Valor:        1.76% ($218,900,000)
+17. Precio Cobre Utilizado:             $9,500/ton
+18. Precio Molibdeno Utilizado:         $18,000/ton
+19. Concentración de Valor 80/20:       80% del valor en 45.2% de bloques
+20. Variación de Valor Alto vs Bajo:    +32.8% en escenario alto
+
+KPIs DE VIABILIDAD
+================================================================================
+21. Coeficiente de Variación - Cu:      28.4% (Moderada variabilidad)
+22. Rango Intercuartílico Cu:           0.3254%
+23. Índice Gini:                        0.3847 (Desigualdad moderada)
+24. % Bloques sobre Media:              52.3% de bloques > ley media
+25. % Bloques Económicamente Viables:   87.3% (Cu > 0.5%)
+26. Correlación Cu-Mo:                  0.7234 (Fuerte positiva)
+27. Percentil P10 Cu:                   0.4125%
+28. Percentil P50 Cu (Mediana):         0.8956%
+29. Percentil P90 Cu:                   1.2847%
+30. Homogeneidad del Depósito:          Moderada
+
+KPIs OPERACIONALES
+================================================================================
+31. Tonelaje Mínimo por Bloque:         8.23 tons
+32. Tonelaje Máximo por Bloque:         89.45 tons
+33. Distribución por Zonas:             5 zonas mineralizadas
+34. Eficiencia de Procesamiento:        82.5% (metal recuperado)
+35. Capacidad Anual Recomendada:        64,219 tons/año
+36. Capacidad Diaria Recomendada:       176 tons/día
+37. Años de Operación Estimados:        20.3 años
+38. Rentabilidad Diaria:                $612,254 USD/día
+39. Bloques por Millón de Toneladas:    35,019 bloques/Mill tons
+40. Variabilidad Operacional (Tonelaje):18.7% CV
+
+MÉTRICAS DE DESEMPEÑO
+================================================================================
+
+Rendimiento Técnico:        ████████░░ 85/100
+Viabilidad Económica:       █████████░ 92/100
+Homogeneidad de Depósito:   ███████░░░ 68/100
+Rentabilidad del Proyecto:  ██████████ 98/100
+
+ANÁLISIS DE SENSIBILIDAD
+================================================================================
+
+Escenario ALTO (Cu: $11,000/ton, Mo: $20,000/ton):
+  Valor Total: $16,584,000,000 USD
+  Variación: +33.2% vs actual
+
+Escenario ACTUAL (Cu: $9,500/ton, Mo: $18,000/ton):
+  Valor Total: $12,450,000,000 USD
+  Variación: Base 0%
+
+Escenario BAJO (Cu: $8,000/ton, Mo: $16,000/ton):
+  Valor Total: $10,496,000,000 USD
+  Variación: -15.7% vs actual
+
+CONCLUSIONES
+================================================================================
+
+✅ FORTALEZAS:
+- Tonelaje significativo (>1.2 millones de tons)
+- Leyes de cobre competitivas (0.89% promedio)
+- Alta rentabilidad económica ($12.45 mil millones USD)
+- 87.3% de bloques económicamente viables
+- Fuerte correlación Cu-Mo (0.72)
+
+⚠️ CONSIDERACIONES:
+- Moderada variabilidad de leyes (CV: 28.4%)
+- Concentración de valor en 45% de bloques
+- Sensibilidad media a fluctuaciones de precios
+
+📊 RECOMENDACIONES:
+- Vida útil del proyecto: ~20 años
+- Capacidad operativa: 176 tons/día
+- Enfoque en zonas de sulfuros (2-4) para maximizar valor
+- Monitoreo continuo de correlación Cu-Mo
+
+================================================================================
